@@ -6,7 +6,6 @@
 </template>
 
 <script setup>
-// main
 import TabBarr from "@/components/tab-bar/tab-bar_01.vue";
 import { useRoute } from "vue-router";
 
